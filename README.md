@@ -1,16 +1,21 @@
 ﻿# BRNSouls
 
+## Sobre
+
+Repositório do meu primeiro blog pessoal construido inteiramente por mim utilizando node e outras tecnologias para se criar este que pra mim é o maior projeto pessoal de todos
+
 Primeiro commit em 25/01/2024
+
 
 Tabela de conteúdos
 =================
 <!--ts-->
-   * [Sobre](#Sobre)
-   * [Tabela de conteúdos](#tabela-de-conteudo)
-   * [Instalação](#instalacao)
+   * [Sobre](#sobre)
+   * [Tabela de conteúdos](#tabela-de-conteúdos)
    * [Como usar](#como-usar)
-      * [Pré-requisitos](#pre-requisitos)
-      * [Rodando o Back End](#Servidor)
+      * [pré-requisitos](#pré-requisitos)
+      * [Rodando o Back End](#🎲-rodando-o-back-end--servidor)
+   * [Features](#features)
    * [Tecnologias](#tecnologias)
    * [Agradecimentos](#agradecimentos)
 <!--te-->
@@ -23,7 +28,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina as seguintes
 [Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/) de preferência
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando o Back End ( servidor )
 
 ```bash
 # Clone este repositório
@@ -58,4 +63,13 @@ $ npm run test
 - [ ] Deletar postagens
 - [ ] Visualizar postagens
 
-## Muita gente hahahaha vou atualizando
+## Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Node.js](https://nodejs.org/en/)
+
+## Agradecimentos
+- Meu pais
+- Meus irmãos
+- Meu Tio
