@@ -1,0 +1,89 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+:root {
+    --cor-fundo: rgb(31, 37, 34);
+    --cor-hover: rgb(192, 121, 39);
+    --cor-primaria: rgb(231, 241, 236);
+}
+
+header{
+    display: flex;
+    background-color: black;
+    height: 15em;
+    color: #FFF;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.logo_brn{
+    width: 10em;
+}
+/* Menu Drop Down começo */
+.dp-menu{
+    text-decoration: none;
+    cursor: pointer;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-direction: row;
+    gap: 2rem;
+}
+
+.dropdown ul li{
+    display: none;
+}
+
+.dropdown:hover ul li{
+    display: block;
+}
+
+.dp-menu ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.dp-menu ul {
+    background-color: var(--cor-fundo);
+}
+
+.dp-menu ul li {
+    display: inline;
+    position: relative;
+}
+
+.dp-menu ul li a {
+    color: var(--cor-primaria);
+    text-decoration: none;
+    display: inline-block;
+    padding: 10px;
+    transition: background .3s;
+}
+
+.dp-menu ul li a:hover {
+    background-color: var(--cor-hover);
+}
+
+/*sub menu*/
+.dp-menu ul ul {
+    display: none;
+    left: 0;
+    position: absolute;
+}
+
+.dp-menu ul li:hover ul {
+    display: block;
+}
+
+.dp-menu ul ul {
+    width: 150px
+}
+
+.dp-menu ul ul li a {
+    display: block;
+}
+/*fim*/
