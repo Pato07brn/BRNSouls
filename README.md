@@ -54,14 +54,14 @@ $ npm run test
 ### Features
 
 - [x] Comecei
-- [ ] Terminar de fazer o Readme
+- [x] Terminar de fazer o Readme
 - [ ] Criei um repositório
 - [ ] Permissão do TaticaDS para usar o conteúdo dele
-- [ ] Visual
 - [ ] Cadastro de postagens
 - [ ] Atualização de postagens
 - [ ] Deletar postagens
 - [ ] Visualizar postagens
+- [ ] Front-End
 
 ## Tecnologias
 
