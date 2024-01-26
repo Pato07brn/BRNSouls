@@ -60,23 +60,13 @@ $ npm run test
 ### Primeiros passos
 - [x] Comecei
 - [x] Terminar de fazer o Readme
-- [x] Criei um repositório
+- [ ] Criei um repositório
 - [ ] Permissão do TaticaDS para usar o conteúdo dele
-
-### Front-End
-
-- [ ] Criação de modelos
-- [ ] Barra de navegação
-- [ ] Carrossel
-- [ ] Modelo das páginas de conteúdo separadas para cada jogo
-- [ ] Integração com os vídeos do YT
-
-### Back-End
-
 - [ ] Cadastro de postagens
 - [ ] Atualização de postagens
 - [ ] Deletar postagens
 - [ ] Visualizar postagens
+- [ ] Front-End
 
 ### Deploy
 
