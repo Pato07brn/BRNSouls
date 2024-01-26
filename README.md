@@ -16,6 +16,10 @@ Tabela de conteúdos
       * [pré-requisitos](#pré-requisitos)
       * [Rodando o Back End](#🎲-rodando-o-back-end--servidor)
    * [Features](#features)
+      * [Primeiro Passo](#primeiros-passos)
+      * [Front End](#front-end)
+      * [Back End](#back-end)
+      * [Deploy](#deploy)
    * [Tecnologias](#tecnologias)
    * [Agradecimentos](#agradecimentos)
 <!--te-->
@@ -51,17 +55,36 @@ $ npm run test
 ```
 
 
-### Features
+## Features
 
+### Primeiros passos
 - [x] Comecei
-- [ ] Terminar de fazer o Readme
-- [ ] Criei um repositório
+- [x] Terminar de fazer o Readme
+- [x] Criei um repositório
 - [ ] Permissão do TaticaDS para usar o conteúdo dele
-- [ ] Visual
+
+### Front-End
+
+- [ ] Criação de modelos
+- [ ] Barra de navegação
+- [ ] Carrossel
+- [ ] Modelo das páginas de conteúdo separadas para cada jogo
+- [ ] Integração com os vídeos do YT
+
+### Back-End
+
 - [ ] Cadastro de postagens
 - [ ] Atualização de postagens
 - [ ] Deletar postagens
 - [ ] Visualizar postagens
+
+### Deploy
+
+- [ ] Compra do domínio
+- [ ] Aprender a fazer Deploy
+- [ ] Ajustar
+- [ ] Lançar
+
 
 ## Tecnologias
 
@@ -70,6 +93,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Node.js](https://nodejs.org/en/)
 
 ## Agradecimentos
-- Meu pais
+
+- Meus pais
 - Meus irmãos
 - Meu Tio
+- Meus amigos
